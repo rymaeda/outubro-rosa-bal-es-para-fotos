@@ -32,6 +32,8 @@ Sou apenas um usuário eventual tanto do GIMP quanto do Inkscape, então peço d
 
 Espero que este material seja útil e ajude a fortalecer as ações de conscientização sobre a prevenção e o diagnóstico precoce do câncer de mama.
 
+O Gimp e o Inkscape são excelentes programas gratuitos.
+
 ---
 
 ## 🇺🇸 English
@@ -59,6 +61,8 @@ GIMP was used only to create the speech-bubble border, based on a repeating text
 I am only an occasional user of both GIMP and Inkscape, so please forgive any imperfections you may find in the files.
 
 I hope this material proves useful and helps support awareness efforts focused on the prevention and early detection of breast cancer.
+
+Gimp and Inkscape are excellents and free apps.
 
 ---
 
