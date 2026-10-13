@@ -2,8 +2,21 @@
 
 Printable speech-bubble signs created for Breast Cancer Awareness Month campaigns (Outubro Rosa).
 
-images/example.jpg
+## Exemplos
 
+<p align="center">
+  img/balão-ame-se-cuide-se-previna-se.png
+  img/balão-mais-amor-cuidado-prevencao.png
+</p>
+
+<p align="center">
+  img/balão-quem-se-ama-se-cuida.png
+  img/balão-se-cuidar-eh-um-ato-de-amor.png
+</p>
+
+<p align="center">
+  <img src="img/balãomerece-todo-cuidado.png
+  <img src="img/balão-voce-eh-sua-maior-prioridade-bkp.png" 
 ---
 
 ## 🇧🇷 Português
