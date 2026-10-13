@@ -4,19 +4,21 @@ Printable speech-bubble signs created for Breast Cancer Awareness Month campaign
 
 ## Exemplos
 
-<p align="center">
-  img/balão-ame-se-cuide-se-previna-se.png
-  img/balão-mais-amor-cuidado-prevencao.png
-</p>
+## Exemplos
 
-<p align="center">
-  img/balão-quem-se-ama-se-cuida.png
-  img/balão-se-cuidar-eh-um-ato-de-amor.png
-</p>
+### Ame-se, cuide-se, previna-se
 
-<p align="center">
-  <img src="img/balãomerece-todo-cuidado.png
-  <img src="img/balão-voce-eh-sua-maior-prioridade-bkp.png" 
+![Ame-se, cuide-se, previna-se](img/balão-ame-se-cuide-se-previna-se.png)
+
+![Mais amor, cuidado e prevenção](img/balão-mais-amor-cuidado-prevencao.png)
+
+![Quem se ama, se cuida](img/balão-quem-se-ama-se-cuida.png)
+
+![se cuidar é um ato de amor,](img/balão-se-cuidar-eh-um-ato-de-amor)
+
+![Suaalão-sua-voda-merece-todo-cuidado.png](img/balão-sua-voda-merece-todo-cuidado.png)
+
+![Você é sua maior prioridade](img/balão-voce-eh-sua-maior-prioridade-bkp.png)
 ---
 
 ## 🇧🇷 Português
